@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct MecipieAppApp: App {
+    @StateObject var recipiesViewModel = RecipieViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(recipiesViewModel)
         }
     }
 }

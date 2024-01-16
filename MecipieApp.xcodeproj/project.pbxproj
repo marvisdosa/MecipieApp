@@ -11,6 +11,19 @@
 		F9355D242B173840001AFA78 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D232B173840001AFA78 /* ContentView.swift */; };
 		F9355D262B173842001AFA78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9355D252B173842001AFA78 /* Assets.xcassets */; };
 		F9355D292B173842001AFA78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9355D282B173842001AFA78 /* Preview Assets.xcassets */; };
+		F9355D372B1739E4001AFA78 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D362B1739E4001AFA78 /* HomeView.swift */; };
+		F9355D392B1739F8001AFA78 /* CategoriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D382B1739F8001AFA78 /* CategoriesView.swift */; };
+		F9355D3B2B173A05001AFA78 /* NewRecipieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D3A2B173A05001AFA78 /* NewRecipieView.swift */; };
+		F9355D3D2B173A2A001AFA78 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D3C2B173A2A001AFA78 /* SettingsView.swift */; };
+		F9355D3F2B173C9C001AFA78 /* TabbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D3E2B173C9C001AFA78 /* TabbarView.swift */; };
+		F9355D412B174016001AFA78 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9355D402B174016001AFA78 /* FavoritesView.swift */; };
+		F95636ED2B19E10C00884F87 /* RecipieModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95636EC2B19E10C00884F87 /* RecipieModel.swift */; };
+		F95636EF2B19EAAA00884F87 /* RecipeCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95636EE2B19EAAA00884F87 /* RecipeCard.swift */; };
+		F95636F12B19F5CC00884F87 /* RecipeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95636F02B19F5CC00884F87 /* RecipeList.swift */; };
+		F97660192B2349C20058B676 /* AddRecipieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F97660182B2349C20058B676 /* AddRecipieView.swift */; };
+		F976601B2B236F9F0058B676 /* RecipieViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F976601A2B236F9F0058B676 /* RecipieViewModel.swift */; };
+		F976601D2B2388800058B676 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F976601C2B2388800058B676 /* Launch Screen.storyboard */; };
+		F9B335822B1AFDE1001AF384 /* RecipieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B335812B1AFDE1001AF384 /* RecipieView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +32,20 @@
 		F9355D232B173840001AFA78 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F9355D252B173842001AFA78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9355D282B173842001AFA78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F9355D362B1739E4001AFA78 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		F9355D382B1739F8001AFA78 /* CategoriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesView.swift; sourceTree = "<group>"; };
+		F9355D3A2B173A05001AFA78 /* NewRecipieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewRecipieView.swift; sourceTree = "<group>"; };
+		F9355D3C2B173A2A001AFA78 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		F9355D3E2B173C9C001AFA78 /* TabbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarView.swift; sourceTree = "<group>"; };
+		F9355D402B174016001AFA78 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		F95636EC2B19E10C00884F87 /* RecipieModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipieModel.swift; sourceTree = "<group>"; };
+		F95636EE2B19EAAA00884F87 /* RecipeCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeCard.swift; sourceTree = "<group>"; };
+		F95636F02B19F5CC00884F87 /* RecipeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeList.swift; sourceTree = "<group>"; };
+		F97660182B2349C20058B676 /* AddRecipieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecipieView.swift; sourceTree = "<group>"; };
+		F976601A2B236F9F0058B676 /* RecipieViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipieViewModel.swift; sourceTree = "<group>"; };
+		F976601C2B2388800058B676 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		F976601E2B238A5B0058B676 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		F9B335812B1AFDE1001AF384 /* RecipieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipieView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +78,12 @@
 		F9355D202B173840001AFA78 /* MecipieApp */ = {
 			isa = PBXGroup;
 			children = (
+				F976601E2B238A5B0058B676 /* Info.plist */,
 				F9355D212B173840001AFA78 /* MecipieAppApp.swift */,
-				F9355D232B173840001AFA78 /* ContentView.swift */,
+				F976601C2B2388800058B676 /* Launch Screen.storyboard */,
+				F9355D2F2B17384E001AFA78 /* Model */,
+				F9355D322B173875001AFA78 /* Views */,
+				F9355D312B173869001AFA78 /* ViewModel */,
 				F9355D252B173842001AFA78 /* Assets.xcassets */,
 				F9355D272B173842001AFA78 /* Preview Content */,
 			);
@@ -65,6 +96,64 @@
 				F9355D282B173842001AFA78 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F9355D2F2B17384E001AFA78 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F95636EC2B19E10C00884F87 /* RecipieModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F9355D312B173869001AFA78 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				F976601A2B236F9F0058B676 /* RecipieViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		F9355D322B173875001AFA78 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F9355D342B1738EB001AFA78 /* Components */,
+				F9355D352B1738F4001AFA78 /* Detail */,
+				F9355D332B1738C5001AFA78 /* Main */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		F9355D332B1738C5001AFA78 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				F9355D232B173840001AFA78 /* ContentView.swift */,
+				F9355D362B1739E4001AFA78 /* HomeView.swift */,
+				F9355D3E2B173C9C001AFA78 /* TabbarView.swift */,
+				F9355D402B174016001AFA78 /* FavoritesView.swift */,
+				F9355D3A2B173A05001AFA78 /* NewRecipieView.swift */,
+				F9355D3C2B173A2A001AFA78 /* SettingsView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		F9355D342B1738EB001AFA78 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				F95636EE2B19EAAA00884F87 /* RecipeCard.swift */,
+				F95636F02B19F5CC00884F87 /* RecipeList.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		F9355D352B1738F4001AFA78 /* Detail */ = {
+			isa = PBXGroup;
+			children = (
+				F9B335812B1AFDE1001AF384 /* RecipieView.swift */,
+				F9355D382B1739F8001AFA78 /* CategoriesView.swift */,
+				F97660182B2349C20058B676 /* AddRecipieView.swift */,
+			);
+			path = Detail;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +214,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F976601D2B2388800058B676 /* Launch Screen.storyboard in Resources */,
 				F9355D292B173842001AFA78 /* Preview Assets.xcassets in Resources */,
 				F9355D262B173842001AFA78 /* Assets.xcassets in Resources */,
 			);
@@ -137,7 +227,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9355D392B1739F8001AFA78 /* CategoriesView.swift in Sources */,
+				F95636EF2B19EAAA00884F87 /* RecipeCard.swift in Sources */,
+				F9355D3F2B173C9C001AFA78 /* TabbarView.swift in Sources */,
+				F97660192B2349C20058B676 /* AddRecipieView.swift in Sources */,
+				F9355D3B2B173A05001AFA78 /* NewRecipieView.swift in Sources */,
+				F9355D372B1739E4001AFA78 /* HomeView.swift in Sources */,
+				F95636ED2B19E10C00884F87 /* RecipieModel.swift in Sources */,
+				F95636F12B19F5CC00884F87 /* RecipeList.swift in Sources */,
+				F9355D412B174016001AFA78 /* FavoritesView.swift in Sources */,
+				F9B335822B1AFDE1001AF384 /* RecipieView.swift in Sources */,
+				F9355D3D2B173A2A001AFA78 /* SettingsView.swift in Sources */,
 				F9355D242B173840001AFA78 /* ContentView.swift in Sources */,
+				F976601B2B236F9F0058B676 /* RecipieViewModel.swift in Sources */,
 				F9355D222B173840001AFA78 /* MecipieAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +372,7 @@
 				DEVELOPMENT_TEAM = 74XM427YR6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MecipieApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +402,7 @@
 				DEVELOPMENT_TEAM = 74XM427YR6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MecipieApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
